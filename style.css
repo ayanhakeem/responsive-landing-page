@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Lucida Sans';
+    font-size: 70px;
+    text-align: center;
+    background-color:black;
+    color: white;
+
+}
+.nav{
+    height: 180px;
+    width:100%;
+    color: white;
+    position: fixed;
+}
+#btn{
+    height: 20px;
+    width: 70px;
+    margin: 10px;
+    background-color: brown;
+   box-shadow: 5px 5px 10px black;
+
+}
+.nav:hover{
+    background-color: seagreen;
+}
+#btn:hover{
+    border-radius: 20px;
+    background-color: aquamarine;
+
+}
+img{
+    width: 100%;
+}
+h2{
+    font-family:'Gill Sans';
+    color: rgb(255, 255, 255);
+}
+.menu{
+    height: 20px;
+    width: 170px;
+}
